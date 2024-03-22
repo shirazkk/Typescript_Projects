@@ -1,2 +1,1 @@
-"# Typescript_projects" 
-"# Typescript_projects" 
+i make calculator using typescript 
